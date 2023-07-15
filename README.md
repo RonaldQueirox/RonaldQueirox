@@ -1,16 +1,14 @@
-### Hi there 👋
+### Boas vindas ao meu perfil 
 
-<!--
-**RonaldQueirox/RonaldQueirox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Ronald S. Queiroz 💙
 
-Here are some ideas to get you started:
+- Sou estudante da [Alura](https://www.alura.com.br)
+- Estou me desenvolvendo em diversas linguagens de programação
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Você pode entrar em contato comigo por aqui 📭
+
+ronaldqueirozsilva13@gmail.com <br>
+contatoronaldqueiroz13@gmail.com
+
+![](https://media.tenor.com/iYL_TseFwQ4AAAAC/anime.gif)
