@@ -2,7 +2,6 @@
 
 Meu nome é Ronald S. Queiroz 💙
 
-- Sou estudante da [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo em diversas linguagens de programação
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
